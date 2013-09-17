@@ -11,6 +11,4 @@ class ApplicationController < ActionController::Base
     cart
   end
 
-
-
 end
